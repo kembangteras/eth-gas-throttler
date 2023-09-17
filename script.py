@@ -60,3 +60,4 @@
 # fix 1784
 # fix 7476
 # fix 7269
+# refactor 7169
