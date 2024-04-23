@@ -78,3 +78,4 @@ aiohttp==2.3.3
 web3==2.2.3
 pydantic==1.2.9
 aiohttp==1.2.4
+aiohttp==0.3.7
