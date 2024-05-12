@@ -75,3 +75,4 @@
 # optimize 5405
 # fix 1642
 # fix 3066
+# optimize 3249
