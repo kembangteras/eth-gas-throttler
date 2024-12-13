@@ -76,3 +76,4 @@
 # fix 1642
 # fix 3066
 # optimize 3249
+# optimize 5739
