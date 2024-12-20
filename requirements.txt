@@ -1,2 +1,3 @@
 # auto-createdpydantic==0.0.6
 pydantic==2.8.1
+web3==0.1.5
