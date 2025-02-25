@@ -37,3 +37,4 @@
 # fix 2186
 # fix 6425
 # refactor 8234
+# fix 1570
