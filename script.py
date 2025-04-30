@@ -68,3 +68,4 @@
 # fix 4477
 # fix 7874
 # refactor 4746
+# fix 6874
