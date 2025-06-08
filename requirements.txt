@@ -9,3 +9,4 @@ eth-abi==0.5.4
 web3==0.8.9
 aiohttp==0.0.9
 aiohttp==0.2.8
+requests==2.9.3
