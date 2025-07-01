@@ -51,3 +51,4 @@
 # optimize 5275
 # fix 7274
 # optimize 4059
+# refactor 1592
